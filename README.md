@@ -1,62 +1,39 @@
 # Hi, I'm Simone 👋
 
-Junior IT enthusiast from Catania, Italy, with a diploma in Informatics.
+Informatics graduate from Catania, Italy, interested in technology and practical problem-solving.
 
-I am building my skills in **Linux, networking, Python, Git and IT infrastructure**, with the long-term goal of working in **Cloud Engineering and DevOps**.
+I use this GitHub profile to document what I learn, build small projects, experiment with different tools and develop my technical skills across software development, operating systems, networking and IT infrastructure.
 
 ## About Me
 
-* 🎓 Diploma in Informatics
-* 🐧 Building practical experience with Linux and Ubuntu Server
-* 🌐 Studying networking, system administration and infrastructure
-* 🐍 Learning Python through small practical projects
-* 🔧 Using Git and GitHub to document my progress
-* ☁️ Working toward Cloud and DevOps roles
-* 💼 Open to junior IT opportunities, internships and apprenticeships
+- 🎓 Diploma in Informatics
+- 💻 Building practical programming skills through personal projects
+- 🐧 Practising Linux system administration in a home lab
+- 🌐 Learning networking, operating systems and infrastructure fundamentals
+- 🔧 Using Git and GitHub to manage and document my work
+- 📚 Interested in understanding how technologies work, not just how to use them
+- 💼 Open to junior IT opportunities, internships and apprenticeships
 
-## Current Learning Path
+## Technologies & Tools
 
-```text
-Linux
-↓
-Networking
-↓
-Git and GitHub
-↓
-Python
-↓
-Virtualization
-↓
-Docker
-↓
-AWS / Azure
-↓
-Terraform
-↓
-Kubernetes
-```
+**Programming**
+- Python
+- C# / .NET
 
-## Technologies and Tools
+**Systems & Infrastructure**
+- Linux
+- Ubuntu Server
+- Windows
+- VirtualBox
+- SSH
+- TCP/IP networking
 
-### Currently using
+**Development Tools**
+- Git
+- GitHub
+- Visual Studio
 
-* Linux
-* Ubuntu Server
-* Windows
-* Python
-* Git
-* GitHub
-* VirtualBox
-* SSH
-* TCP/IP networking
-
-### Learning next
-
-* Docker
-* Cloud platforms
-* Infrastructure as Code
-* CI/CD
-* Kubernetes
+This list reflects tools and technologies I have used or am currently learning. I will update it as I gain more practical experience.
 
 ## Projects
 
@@ -65,38 +42,36 @@ Kubernetes
 A Python command-line application for recording and managing daily activities.
 
 The project includes:
+- persistent text-file storage;
+- activity search and deletion;
+- input validation and error handling;
+- modular code.
 
-* persistent text-file storage;
-* activity search and deletion;
-* input validation;
-* error handling;
-* modular Python code;
-* Git-based development workflow.
+## Labs & Experiments
 
-## Home Lab
+### [Linux Home Lab](https://github.com/simoneCod/linux-homelab)
 
-I use a local Ubuntu Server virtual machine to practice:
+A practical learning environment based on Ubuntu Server running in VirtualBox.
 
-* Linux users, groups and permissions;
-* SSH remote access;
-* processes and services;
-* network configuration;
-* system monitoring;
-* troubleshooting.
+Topics explored include:
+- Linux installation and configuration;
+- users, groups and permissions;
+- SSH remote access;
+- networking and connectivity;
+- processes, services and troubleshooting.
 
-More infrastructure projects and documentation will be added as my skills develop.
+## Current Focus
 
-## Goals
+I am continuing to strengthen my foundations through hands-on work in:
 
-My current objective is to start working in IT and gain professional experience in areas such as:
+- programming and software development;
+- Linux and operating systems;
+- networking and IT infrastructure;
+- databases and data management;
+- security fundamentals.
 
-* IT infrastructure;
-* Linux and Windows systems;
-* networking;
-* cloud computing;
-* technical support with real system administration responsibilities;
-* DevOps and automation.
+I prefer learning by building, testing, documenting and improving practical projects.
 
 ---
 
-I am documenting my progress here through practical projects, home-lab activities and continuous learning.
+Thanks for visiting my profile!
